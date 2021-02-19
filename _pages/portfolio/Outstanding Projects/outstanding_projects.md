@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/outstanding-projects/
+permalink: /portfolio/outstanding-projects
 title: "Outstanding Projects"
 author_profile: false
 layout: splash
