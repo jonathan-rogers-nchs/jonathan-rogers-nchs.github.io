@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/employability-skills-sessions
+permalink: /portfolio/employability-skills-sessions/
 title: "Employability Skills Sessions"
 author_profile: false
 layout: splash
