@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/volunteer-hours
+permalink: /portfolio/volunteer-hours/
 title: "Volunteer Hours"
 author_profile: false
 layout: splash
