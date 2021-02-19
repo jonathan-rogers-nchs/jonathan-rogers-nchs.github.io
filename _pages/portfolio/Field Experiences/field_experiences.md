@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/field-experiences/
+permalink: /portfolio/field-experiences
 title: "Field Experiences"
 author_profile: false
 layout: splash

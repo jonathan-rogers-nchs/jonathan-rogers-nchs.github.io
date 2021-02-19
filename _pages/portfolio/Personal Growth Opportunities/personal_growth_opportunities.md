@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/personal-growth-opportunities/
+permalink: /portfolio/personal-growth-opportunities
 title: "Personal Growth Opportunities"
 author_profile: false
 layout: splash
