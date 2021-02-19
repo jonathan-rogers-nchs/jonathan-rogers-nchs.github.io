@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 author_profile: true
-layout: splash
+layout: single
 header:
   overlay_image: /assets/images/resources_header.jpg 
   overlay_filter: 0.5

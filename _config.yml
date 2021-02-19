@@ -61,6 +61,12 @@ author:
   name   : "Jonathan Rogers"
   avatar : "/assets/images/bio-photo.jpg"
   links:
+    - label: "Email"
+      icon: "far fa-envelope-open"
+      url: "mailto:jrogers4895@cabarrus.k12.nc.us"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/jonathan-rogers-549142192/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonathan-rogers-dev"
