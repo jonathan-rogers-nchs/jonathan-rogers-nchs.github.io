@@ -4,9 +4,9 @@ title: "Portfolio"
 author_profile: false
 layout: splash
 header:
-  overlay_image: /assets/images/resources_header.jpg 
+  overlay_image: /assets/images/portfolio-header.jpg 
   overlay_filter: 0.5
-  caption: "Photo credit: [**'mentatdgt' on Pexels**](https://www.pexels.com/photo/white-wooden-bookshelves-1319855/)"
+  caption: "Photo credit: [**'Sam Jean' on Pexels**](https://www.pexels.com/photo/white-paper-folders-with-black-tie-1764956/)"
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
