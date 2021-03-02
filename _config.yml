@@ -32,6 +32,24 @@ algolia:
   search_only_api_key: 402ef1c119fc510124eeacddf70cacc0
   powered_by: true
 
+algolia:
+  settings:
+    searchableAttributes:
+      - title
+      - headings
+      - unordered(content)
+      - collection,categories,tags
+      - unordered(html)
+      - unordered(type)
+      - unordered(categories)
+    attributesToHighlight:
+      - categories
+      - content
+      - headings
+      - html
+      - tags
+      - title
+      - type
 
 
 # Build settings
