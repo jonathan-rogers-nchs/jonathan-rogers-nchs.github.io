@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/career-profile-or-field-research-and-study
+permalink: /portfolio/career-profile-or-field-research-and-study/
 title: "Career Profile and Field Research Study"
 author_profile: false
 layout: splash
