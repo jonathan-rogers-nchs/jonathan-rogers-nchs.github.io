@@ -31,8 +31,7 @@ algolia:
   index_name: website_index
   search_only_api_key: 402ef1c119fc510124eeacddf70cacc0
   powered_by: true
-
-algolia:
+  
   settings:
     searchableAttributes:
       - title
