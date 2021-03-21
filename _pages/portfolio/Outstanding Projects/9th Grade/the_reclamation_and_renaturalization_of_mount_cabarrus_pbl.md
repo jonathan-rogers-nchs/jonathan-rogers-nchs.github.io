@@ -17,10 +17,13 @@ As the Cabarrus LCID landfill, a waste dumping site in Concord, North Carolina n
 The purpose of this project was to demonstrate the positive and negative relationships and interactions between different organisms within an ecosystem. Not only were we able to map the interactions of local species (slides 8-14), but we were also able to suggest new ideas of Sustainability and Conservation (slides 15-23) within our local area. As this park is meant to be a public area, included in our presentation are impacts of humans on an ecosystem and several ways to counteract the effect (slides 24-26).
 
 
-<figure>
+<figure class="third">
     <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/1.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/1.JPG"></a>
-    <figcaption>A birds eye view of the complete model.</figcaption>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.JPG"></a>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.JPG"></a>
+    <figcaption>Images of the complete model.</figcaption>
 </figure>
+
 
 Our group, consisting of Logan Wittenberg, Adam Ponivas, Jax McBride, and I, Jonathan Rogers, started out by completing research on three related topics, the area in which we would place the park, the wildlife found at and around Cabarrus County, and examples of other reused landfills in our local area and on a national scale.
 In the early stages of our project, a visitor by the name of Tammy Remsburg from the Cabarrus County Soil and Water assisted in our efforts by presenting the information she collected regarding other landfills that have undergone the process of capping to be used for a different purpose such as a golf course or wildlife reserve. This showed the wide scale application of capping not only for our area, but for others.
@@ -36,7 +39,7 @@ In time, we started to construct our map, we began to realize how heavy our proj
 While Logan, Adam, and Jax constructed parts of the model, I started work on the presentation. As this project was in the theme of a new park release, I wanted our presentation to look more or less like a professional park release. I started by inserting data I had gained from the Cabarrus GIS service to show the overall dimensions of the area. I then proceeded into future plans for the landfill.
 
 <figure>
-    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.jpg"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.jpg"></a>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/4.jpg"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/4.jpg"></a>
     <figcaption>We later turned the list of organisms above into a food web shown in the presentation.</figcaption>
 </figure>
 
@@ -44,7 +47,11 @@ As presentation day grew near, the painting portion of our model was well underw
 Among the requirements for our project, we were required to include sustainability efforts that would support the park and the Cabarrus area. Starting on slide 15, we began to introduce the sustainability and conservation efforts of the park. This includes support for certain types of bees and butterflies, and a fish population control effort. By the implication of theses programs, the park will become more sustainable leading to a more natural ecosystem. Later in the presentation, we were also able to discuss human impacts from humans and the surrounding area such as the highway and the Charlotte Motor Speedway.
 
 # Final Presentation
-<iframe src="https://cabarrusnck12-my.sharepoint.com/personal/jrogers4895_cabarrus_k12_nc_us/_layouts/15/Doc.aspx?sourcedoc={1bacbf0b-e001-477a-87b8-11801b7e8fb5}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KsHIy9Va4DU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## PowerPoint
+<a href="https://cabarrusnck12-my.sharepoint.com/:p:/g/personal/jrogers4895_cabarrus_k12_nc_us/ER1DvD6jPj1KsBhVNmmSm8MBG_NQzhxeYL4HjLS4Yh0tZA?e=s2MlQP" class="btn btn--inverse btn--large">Access Presentation</a>
 
 ## Presenter Notes
 Introductory Slides
