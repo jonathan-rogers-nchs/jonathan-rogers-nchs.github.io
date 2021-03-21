@@ -17,9 +17,10 @@ As the Cabarrus LCID landfill, a waste dumping site in Concord, North Carolina n
 The purpose of this project was to demonstrate the positive and negative relationships and interactions between different organisms within an ecosystem. Not only were we able to map the interactions of local species (slides 8-14), but we were also able to suggest new ideas of Sustainability and Conservation (slides 15-23) within our local area. As this park is meant to be a public area, included in our presentation are impacts of humans on an ecosystem and several ways to counteract the effect (slides 24-26).
 
 
-<figure class="half">
+<figure class="third">
     <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/1.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/1.JPG"></a>
-    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.JPG"></a>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.jpg"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/2.jpg"></a>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.JPG"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.JPG"></a>
     <figcaption>Images of the complete model.</figcaption>
 </figure>
 
@@ -38,7 +39,7 @@ In time, we started to construct our map, we began to realize how heavy our proj
 While Logan, Adam, and Jax constructed parts of the model, I started work on the presentation. As this project was in the theme of a new park release, I wanted our presentation to look more or less like a professional park release. I started by inserting data I had gained from the Cabarrus GIS service to show the overall dimensions of the area. I then proceeded into future plans for the landfill.
 
 <figure>
-    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.jpg"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/3.jpg"></a>
+    <a href="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/4.jpg"><img src="/assets/images/The Reclamation and Re-naturalization of Mount Cabarrus PBL/4.jpg"></a>
     <figcaption>We later turned the list of organisms above into a food web shown in the presentation.</figcaption>
 </figure>
 
