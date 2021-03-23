@@ -51,6 +51,13 @@ algolia:
       - type
 
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-YYXNR5JLN8"
+    anonymize_ip: false # default
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
