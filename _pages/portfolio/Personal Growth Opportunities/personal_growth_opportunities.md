@@ -4,9 +4,9 @@ title: "Personal Growth Opportunities"
 author_profile: false
 layout: splash
 header:
-  overlay_image: /assets/images/resources_header.jpg 
+  overlay_image: /assets/images/personal_growth_opportunities-header.jpg 
   overlay_filter: 0.5
-  caption: "Photo credit: [**'mentatdgt' on Pexels**](https://www.pexels.com/photo/white-wooden-bookshelves-1319855/)"
+  caption: "Photo credit: [**'Singkham' on Pexels**](https://www.pexels.com/photo/clear-light-bulb-planter-on-gray-rock-1108572/)"
 toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
