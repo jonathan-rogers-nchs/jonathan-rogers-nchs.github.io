@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/personal-growth-opportunities/the-human-trafficking-psa
+permalink: /portfolio/personal-growth-opportunities/the-human-trafficking-psa/
 title: "The Human Trafficking PSA"
 author_profile: false
 layout: splash
