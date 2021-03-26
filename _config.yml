@@ -99,7 +99,7 @@ plugins:
 
 author:
   name   : "Jonathan Rogers"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/jonathan-rogers.jpg"
   links:
     - label: "Email"
       icon: "far fa-envelope-open"
