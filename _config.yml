@@ -22,6 +22,14 @@ github_username: jonathan-rogers-dev
 minimal_mistakes_skin: dirt
 search: true
 
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  Jonathan Rogers
+  links:
+    - "https://www.linkedin.com/in/jonathan-rogers-549142192/"
+    - "https://github.com/jonathan-rogers-dev"
+
+
 # Search
 search_provider: algolia
 algolia:

@@ -54,118 +54,118 @@ Among the requirements for our project, we were required to include sustainabili
 <a href="https://cabarrusnck12-my.sharepoint.com/:p:/g/personal/jrogers4895_cabarrus_k12_nc_us/ER1DvD6jPj1KsBhVNmmSm8MBG_NQzhxeYL4HjLS4Yh0tZA?e=s2MlQP" class="btn btn--inverse btn--large">Access Presentation</a>
 
 ## Presenter Notes
-Introductory Slides
+### Introductory Slides
 
-Title Screen
+#### Title Screen
 
-In this presentation, we will discuss the plans to cap the Cabarrus LCID landfill and convert it into a public park.
+*In this presentation, we will discuss the plans to cap the Cabarrus LCID landfill and convert it into a public park.*
 
-About the Area
+#### About the Area
 
-The Cabarrus LCID Landfill is a 2.15 Sq. Kilometer plot of land that has been used as a landfill for many years. Although, in the next coming years, this landfill will reach its maximum lifespan and will need to be caped. In order to make good use of this land after it has been capped, this land will be redesignated as a public park. The official name for this park is the Cabarrus Mountain Park.  
+*The Cabarrus LCID Landfill is a 2.15 Sq. Kilometer plot of land that has been used as a landfill for many years. Although, in the next coming years, this landfill will reach its maximum lifespan and will need to be caped. In order to make good use of this land after it has been capped, this land will be redesignated as a public park. The official name for this park is the Cabarrus Mountain Park.*
 
-The next slides will discuss the plans for the new park.
+*The next slides will discuss the plans for the new park.*
 
-Park Specifications
+### Park Specifications
 
-Basic Specifications  
+#### Basic Specifications
 
-The park area is a maximum of 1.6 miles from North to South and a maximum of 1 mile from West to east.
+*The park area is a maximum of 1.6 miles from North to South and a maximum of 1 mile from West to east.*
 
-Park Excursions
+#### Park Excursions
 
-The Cabarrus Mountain Park will include many excursions to satisfy the interest of park goers. These will include
+*The Cabarrus Mountain Park will include many excursions to satisfy the interest of park goers. These will include*
 
-Walking/Biking Trails
-Two lakes and a small river connected the two
-A forest area on the north side of the park
-Event areas
-A designated viewing area of Concord
+*Walking/Biking Trails*
+*Two lakes and a small river connected the two*
+*A forest area on the north side of the park*
+*Event areas*
+*A designated viewing area of Concord*
 
 
-A Detailed Look of the Park
+### A Detailed Look of the Park
 
-Now we will be looking at the park itself. Here we have a to-scale model of the park itself. Starting from the north side of the park, we will have a large amount of forest vegetation followed by an open viewing area of Concord. In the center of the park, there is a large lake surrounded by community centers and trails. The south side of the park includes most of our conservation efforts and programs which will be discussed later in the presentation. There is also a small lake in this area of the park that is directly connected to the main lake.
+*Now we will be looking at the park itself. Here we have a to-scale model of the park itself. Starting from the north side of the park, we will have a large amount of forest vegetation followed by an open viewing area of Concord. In the center of the park, there is a large lake surrounded by community centers and trails. The south side of the park includes most of our conservation efforts and programs which will be discussed later in the presentation. There is also a small lake in this area of the park that is directly connected to the main lake.*
 
-Map Information
+#### Map Information
 
-This is the map legend and scaling found on the scale 3D Model.
+*This is the map legend and scaling found on the scale 3D Model.*
 
-Food Web Section
+### Food Web Section
 
-The Food Web at Cabarrus Mountain Park
+#### The Food Web at Cabarrus Mountain Park
 
-In this park, we plan to have a very diverse ecosystem that is sustainable. The next slides will discuss this topic.
+*In this park, we plan to have a very diverse ecosystem that is sustainable. The next slides will discuss this topic.*
 
-Slide 1
+#### Slide 1
 
-Alongside the native species that will migrate into the park, the ecosystem at Cabarrus Mountain Park will include 23 different species of organisms such as non-venomous snakes, birds, insects, and producers.
+*Alongside the native species that will migrate into the park, the ecosystem at Cabarrus Mountain Park will include 23 different species of organisms such as non-venomous snakes, birds, insects, and producers.*
 
-Slide 2
+#### Slide 2
 
-This is how the food web is organized from a large scale.
+*This is how the food web is organized from a large scale.*
 
-Slide 3
+#### Slide 3
 
-As a quick overview of the food chain, different species of trees and other producers will be used as food by first and secondary producers like fireflies, Bees, and Squirrels.
+*As a quick overview of the food chain, different species of trees and other producers will be used as food by first and secondary producers like fireflies, Bees, and Squirrels.*
 
-Slide 4
+#### Slide 4
 
-These organisms will then be eaten by larger organisms including birds, fish, and amphibians.
+*These organisms will then be eaten by larger organisms including birds, fish, and amphibians.*
 
-Slide 5
+#### Slide 5
 
-At the top of the food chain, snakes like the Garter and Ribbon Snake will be the top predator of the ecosystem on land and the large fish like Rainbow and Brown Trout will be the top predators in the lake.
+*At the top of the food chain, snakes like the Garter and Ribbon Snake will be the top predator of the ecosystem on land and the large fish like Rainbow and Brown Trout will be the top predators in the lake.*
 
-Sustainability Goals
+### Sustainability Goals
 
-Sustainability and Conservation at Cabarrus Mountain Park
+#### Sustainability and Conservation at Cabarrus Mountain Park
 
-Now we are going to be talking about the sustainability of the park.
+*Now we are going to be talking about the sustainability of the park.*
 
-Sustainability and Conservation Programs at Cabarrus Mountain Park
+#### Sustainability and Conservation Programs at Cabarrus Mountain Park
 
-As we have discussed in the previous section, the food web we will have in place in most cases will sustain itself similarly to a real ecosystem in North Carolina but in order to increase the sustainability of this park, we have added new programs to assist in this effort.  
+*As we have discussed in the previous section, the food web we will have in place in most cases will sustain itself similarly to a real ecosystem in North Carolina but in order to increase the sustainability of this park, we have added new programs to assist in this effort.*
 
-We would first like to introduce the bee repopulation program
+*We would first like to introduce the bee repopulation program*
 
-The Bee Repopulation Program  
+#### The Bee Repopulation Program  
 
-In 2019, ABC news made this statement, “Over the past 15 years, bee colonies have been disappearing in what is known as the "colony collapse disorder," according to National Geographic. Some regions have seen losses of up to 90%, the publication reported.” National Geographic also reports that the managed bee population has decreased by 40.7%. As you can see by these statistics, the rapid population decrease of bees is a very serious problem. In order to compact this problem in the Concord area, we have created The Bee Repopulation Program at Cabarrus Mountain Park. Over the next five years, we have planned to include artificial beehives, larger amounts of vegetation, and volunteer and paid beekeepers. We will also have a yearly observance of National Honeybee Day where we will include activities and events for all ages to raise awareness of this growing issue.  
+*In 2019, ABC news made this statement, “Over the past 15 years, bee colonies have been disappearing in what is known as the "colony collapse disorder," according to National Geographic. Some regions have seen losses of up to 90%, the publication reported.” National Geographic also reports that the managed bee population has decreased by 40.7%. As you can see by these statistics, the rapid population decrease of bees is a very serious problem. In order to compact this problem in the Concord area, we have created The Bee Repopulation Program at Cabarrus Mountain Park. Over the next five years, we have planned to include artificial beehives, larger amounts of vegetation, and volunteer and paid beekeepers. We will also have a yearly observance of National Honeybee Day where we will include activities and events for all ages to raise awareness of this growing issue.*
 
-Next, we would like to introduce Fishing at Mountain Lake.
+*Next, we would like to introduce Fishing at Mountain Lake.*
 
-Fishing at Mountain Lake
+#### Fishing at Mountain Lake
 
-At Frank Liske Park, fishing is a permitted activity for the enjoyment of park goers. It is also a way to keep the ecosystem of the lake stable and sustainable. For these reasons, we are pleased to announce that fishing will be available at Cabarrus Mountain Park in designated areas. Catch and Release fishing will be available year-round during normal park hours. Any forms of fishing other than catch and release will only be permitted under certain conditions. This will only be available from the months of September to May. There is a one-fish limit per group. Finally, all fish caught must be longer than 6 inches.
+*At Frank Liske Park, fishing is a permitted activity for the enjoyment of park goers. It is also a way to keep the ecosystem of the lake stable and sustainable. For these reasons, we are pleased to announce that fishing will be available at Cabarrus Mountain Park in designated areas. Catch and Release fishing will be available year-round during normal park hours. Any forms of fishing other than catch and release will only be permitted under certain conditions. This will only be available from the months of September to May. There is a one-fish limit per group. Finally, all fish caught must be longer than 6 inches.*
 
-Finally, we will be discussing the Great Monarch Butterfly Migration Hub Stop
+*Finally, we will be discussing the Great Monarch Butterfly Migration Hub Stop*
 
-The Great Monarch Butterfly Migration Hub Stop
+#### The Great Monarch Butterfly Migration Hub Stop
 
-The Great Monarch Butterfly Migration is a natural phenomenon where the Monarch Butterfly migrates each summer and autumn in order to escape the frigid winter. During this journey, the Monarch Butterfly faces many obstacles such as lack of food and dangerous weather. In order to assist the local and national population of Monarch Butterflies, the Cabarrus Mountain Park will include an area designated for the butterflies to rest and rehabilitate. This area will include the Butterfly Weed, a type of milkweed that butterflies can use for nectar.
+*The Great Monarch Butterfly Migration is a natural phenomenon where the Monarch Butterfly migrates each summer and autumn in order to escape the frigid winter. During this journey, the Monarch Butterfly faces many obstacles such as lack of food and dangerous weather. In order to assist the local and national population of Monarch Butterflies, the Cabarrus Mountain Park will include an area designated for the butterflies to rest and rehabilitate. This area will include the Butterfly Weed, a type of milkweed that butterflies can use for nectar.*
 
-Finally, we would like to talk about the Preservation of Biodiversity.
+*Finally, we would like to talk about the Preservation of Biodiversity.*
 
-The Preservation of Biodiversity
+#### The Preservation of Biodiversity
 
-An important factor in an ecosystem is the Preservation of Biodiversity. Without this key factor, an ecosystem may not survive. That is why we plan to monitor the condition of our ecosystems monthly and take note of any changes. This will better equip us to make improved decisions for the better of the ecosystem and the park.
+*An important factor in an ecosystem is the Preservation of Biodiversity. Without this key factor, an ecosystem may not survive. That is why we plan to monitor the condition of our ecosystems monthly and take note of any changes. This will better equip us to make improved decisions for the better of the ecosystem and the park.*
 
-Now let’s discuss about Human Impacts.
+*Now let’s discuss about Human Impacts.*
 
-Human Impacts
+### Human Impacts
 
-Human Impacts on the Cabarrus Mountain Park
+#### Human Impacts on the Cabarrus Mountain Park
 
-Because this is a public park, humans will impact this ecosystem in many ways. Simple things like yelling, standing, and walking on forbidden ground can deteriorate natural habitats and scare and harm animals. We also realize that the surrounding area including roadways, neighborhoods and the Charlotte Motor Speedway will put strain on the ecosystem.
+*Because this is a public park, humans will impact this ecosystem in many ways. Simple things like yelling, standing, and walking on forbidden ground can deteriorate natural habitats and scare and harm animals. We also realize that the surrounding area including roadways, neighborhoods and the Charlotte Motor Speedway will put strain on the ecosystem.*
 
-Combating the Strain of Human Impacts
+#### Combating the Strain of Human Impacts
 
-In order to combat some of these human strains, we will enforce areas where visitors can and can not go. Also, loud noises will not be permitted in some areas of the park including the forest and sustainability areas.
+*In order to combat some of these human strains, we will enforce areas where visitors can and can not go. Also, loud noises will not be permitted in some areas of the park including the forest and sustainability areas.*
 
-Cabarrus Mountain Park
+#### Cabarrus Mountain Park
 
-Thank you for listening to the upcoming plans for the Cabarrus LCID Landfill. This is the time to ask questions.
+*Thank you for listening to the upcoming plans for the Cabarrus LCID Landfill. This is the time to ask questions.*
 
 # Conclusion
 Although I did enjoy completing this project, there are some improvements I would make if I did this project again. First of all, I would have placed our model on something other than a couple pieces of cardboard. The use of cardboard made the project very unstable when transporting between tables. Later after the project was complete, an incident occurred with the final product during transport from one classroom to another rendering the project severely damaged. This problem would have been eliminated with the use of a piece of wood or similar material.
@@ -175,3 +175,6 @@ During the early project stages, the idea of creating an introduction video to t
 The final change I would make to this presentation was to color the salt dough clay better. If you view the final images, you will see that areas are solid colors. With more time and experience, the final product could have looked more realistic.
 
 Although there are changes I would make, I am very satisfied with the final product and I can't wait to see the coming events that will transfer the Cabarrus LCID landfill.
+
+# Social Content
+<iframe src="https://www.facebook.com/plugins/video.php?height=317&href=https%3A%2F%2Fwww.facebook.com%2FCCSSTEM%2Fvideos%2F489151931867227%2F&show_text=true&width=560" width="560" height="432" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
