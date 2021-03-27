@@ -1,6 +1,6 @@
 ---
-permalink: /portfolio/volunteer-hours/
-title: "Volunteer Hours"
+permalink: /portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/
+title: "NCVirtual Peer Tutoring Center"
 author_profile: false
 layout: splash
 header:
@@ -11,5 +11,4 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
-
-<a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/" class="btn btn--inverse btn--x-large">NCVirtual Peer Tutoring Center</a>
+<a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/ncvirtual-parent-virtual-open-house/" class="btn btn--inverse btn--x-large">NCVirtual Parent Virtual Open House</a>
