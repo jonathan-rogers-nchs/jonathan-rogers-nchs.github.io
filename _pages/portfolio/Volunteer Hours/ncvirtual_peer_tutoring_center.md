@@ -11,4 +11,7 @@ toc: true
 toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
+
+# Total Hours: 139.9
+
 <a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/ncvirtual-parent-virtual-open-house/" class="btn btn--inverse btn--x-large">NCVirtual Parent Virtual Open House</a>
