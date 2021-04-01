@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+logo: "/assets/images/logo.png"
 title: Jonathan Rogers - Student Portfolio
 email: jrogers4895@cabarrus.k12.nc.us
 description: >- # this means to ignore newlines until "baseurl:"
