@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 logo: "/assets/images/logo.png"
 title: Jonathan Rogers - Student Portfolio
+subtitle: "Northwest Cabarrus High School"
 email: jrogers4895@cabarrus.k12.nc.us
 description: >- # this means to ignore newlines until "baseurl:"
   High School Portfolio of Jonathan Rogers, a student at Northwest Cabarrus High School.
