@@ -14,4 +14,6 @@ toc_icon: "file-alt"
 
 # Total Hours: 139.9
 
+<a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/peer-tutoring/" class="btn btn--inverse btn--x-large">Peer Tutoring</a>
+<a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/tech-support/" class="btn btn--inverse btn--x-large">Tech Support</a>
 <a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/ncvirtual-parent-virtual-open-house/" class="btn btn--inverse btn--x-large">NCVirtual Parent Virtual Open House</a>
