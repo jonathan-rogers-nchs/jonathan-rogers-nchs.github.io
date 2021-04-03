@@ -12,7 +12,8 @@ toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
 
-# Total Hours: 139.9
+
+<a href="/portfolio/volunteer-hours/statistics/ncvirtual-peer-tutoring-center/"><img src="/assets/images/volunteering-statistics-header.png"></a>
 
 <a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/peer-tutoring/" class="btn btn--inverse btn--x-large">Peer Tutoring</a>
 <a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/tech-support/" class="btn btn--inverse btn--x-large">Tech Support</a>

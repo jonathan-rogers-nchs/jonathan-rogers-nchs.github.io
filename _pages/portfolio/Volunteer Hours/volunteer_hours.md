@@ -12,7 +12,18 @@ toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
 
-# Total Hours: 139.9
-
 <a href="/portfolio/volunteer-hours/ncvirtual-peer-tutoring-center/" class="btn btn--inverse btn--x-large">NCVirtual Peer Tutoring Center</a>
 <a href="/portfolio/volunteer-hours/senior-video-2021/" class="btn btn--inverse btn--x-large">Senior Video - 2021</a>
+
+<figure class="single">
+  <div class='tableauPlaceholder' id='viz1617462156566' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalVolunteeringHours&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TotalVolunteeringHours&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;To&#47;TotalVolunteeringHours&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                
+
+  <script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1617462156566');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='500px';vizElement.style.height='127px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='500px';vizElement.style.height='127px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+  </script>
+</figure>
