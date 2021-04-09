@@ -174,7 +174,7 @@ The final program looks like this...
 
 The project files can be found below.
 
-<a href="/assets/files/Inventory Project/V1/honors_inventory_project.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
+<a href="https://github.com/jonathan-rogers-dev/Inventory-Manager/releases/download/V1/honors_inventory_project_v1.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
 <a href="/assets/files/Inventory Project/V1/honors_inventory_project.vb" class="btn btn--inverse btn--x-large">Form (.vb)</a>
 
 
@@ -369,7 +369,7 @@ The final program looks like this...
 
 The project files can be found below.
 
-<a href="/assets/files/Inventory Project/V2/honors_inventory_project_v2.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
+<a href="https://github.com/jonathan-rogers-dev/Inventory-Manager/releases/download/V2/honors_inventory_project_v2.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
 <a href="/assets/files/Inventory Project/V2/honors_inventory_project_v2.vb" class="btn btn--inverse btn--x-large">Form (.vb)</a>
 
 ## Inventory Project Part II Reflection
@@ -561,7 +561,8 @@ I also formatted the front UI so it is more open and readable.
 </figure>
 
 The project files can be found below.
-<a href="/assets/files/Inventory Project/V3/honors_inventory_project_v3.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
+
+<a href="https://github.com/jonathan-rogers-dev/Inventory-Manager/releases/download/V3/honors_inventory_project_v3.exe" class="btn btn--inverse btn--x-large">Executable (.exe)</a>
 <a href="/assets/files/Inventory Project/V3/honors_inventory_project_v3.vb" class="btn btn--inverse btn--x-large">Form (.vb)</a>
 
 ## Inventory Project Part III Reflection
