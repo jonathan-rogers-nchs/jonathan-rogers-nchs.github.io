@@ -12,4 +12,16 @@ toc_label: " Table of Contents"
 toc_icon: "file-alt"
 ---
 
-<a class="btn btn--warning btn--large align-center">This page is currently in development</a>
+As a member of the NCVirtual Peer Tutoring Center, I have the privilege of tutoring students virtually in NCVirtual courses.
+
+Currently, I tutor in the following subjects:
+- Math 2
+- Math 2 Honors
+- Math 3
+- Math 3 Honors
+- Biology Honors
+- Computer Programming 1 Honors
+- English 2
+- English 2 Honors
+- Microsoft Excel
+- Middle School 8th Grade Math
