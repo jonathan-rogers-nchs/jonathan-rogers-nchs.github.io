@@ -41,7 +41,7 @@ I was able to complete this project with the NCVirtual Coding Club. Our Android 
 - *Upload your APK file to Devpost*
 - *Complete and enter information into all required fields of the submission form on hackathon site.*
 
-More information can be found <a href="http://web.archive.org/web/20201226191554/https://readysetapp.devpost.com/"> here.</a>
+More information can be found at <a href="http://web.archive.org/web/20201226191554/https://readysetapp.devpost.com/">Devpost</a> and <a href="https://web.archive.org/web/20210426190800/https://www.ncstudentconnect.com/ready-set-app-virtual-pitch-competition">NC Student Connect</a>.
 
 # Project
 ## Application Description
@@ -84,6 +84,10 @@ As important as front-end development is, our application would not work without
 ## Video (Phase 2)
 The following video is what our team produced during phase 2 of the project.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JhFRBOiwsRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Video (Phase 3)
+The following video was presented at the virtual pitch.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-JLcN4vahf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Source Code and Releases
 The source code and releases of College Atlas can be accessed from the following link (image).
