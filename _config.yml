@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   High School Portfolio of Jonathan Rogers, a student at Northwest Cabarrus High School.
 # twitter_username: username
 github_username: jonathan-rogers-dev
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: contrast
 search: true
 og_image: /assets/images/logo.png
 
