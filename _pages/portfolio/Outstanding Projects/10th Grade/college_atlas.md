@@ -95,6 +95,9 @@ The source code and releases of College Atlas can be accessed from the following
 <a href="https://github.com/NCVirutal-Coding-Club/CollegeAtlas"><img src="/assets/images/NCVirtual Coding Club/College Atlas/GitHub Header Image.png"></a>
 </figure>
 
+## College Atlas on the NCVPS Website
+<a href="https://ncvps.org/ncvirtual-coding-club-college-atlas/" class="btn btn--inverse btn--large">NCVPS College Atlas Announcement</a>
+
 ## Conclusion
 Unfortunately, our team did not win the competition. The cause of this outcome was our less-than-modern user interface, combined with a lack of many features we were planning to add. Even though this was a disappointment, our team did learn a lot. For example, we learned how to work as a team, plan a project, and communicate with each other without any in-person interaction. We also learned new platforms such as GitHub and MIT App Inventor, so we could properly code, share, and manage our program. From this experience, I feel that I have officially begun my journey to become a software developer, and this project will most certainly have a profound impact on my future.
 
