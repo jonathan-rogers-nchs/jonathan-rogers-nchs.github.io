@@ -18,3 +18,4 @@ toc_icon: "file-alt"
 
 # Sophomore Year
 <a href="/portfolio/personal-growth-opportunities/ncvirtual-coding-club/" class="btn btn--inverse btn--x-large">NCVirtual Coding Club</a>
+<a href="/portfolio/personal-growth-opportunities/pvsa/" class="btn btn--inverse btn--x-large">PVSA</a>
