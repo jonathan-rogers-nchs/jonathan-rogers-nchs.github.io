@@ -19,3 +19,6 @@ toc_icon: "file-alt"
 # Sophomore Year
 <a href="/portfolio/outstanding-projects/inventory-project/" class="btn btn--inverse btn--x-large">Inventory Project</a>
 <a href="/portfolio/outstanding-projects/college-atlas/" class="btn btn--inverse btn--x-large">College Atlas</a>
+
+# Junior Year
+<a href="/portfolio/outstanding-projects/egg-drop-pbl/" class="btn btn--inverse btn--x-large">Egg Drop Project</a>
